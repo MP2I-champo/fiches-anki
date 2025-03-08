@@ -12,7 +12,7 @@ Si vous constatez des erreurs sur certaines cartes, merci de les signaler ! Cela
 # explication des paquets
 ## Lucas
 De mon côté, vous trouvez soit toutes les cartes de la matière dans un seul fichier dans le dossier tout_en_un, soit les cartes par chapitre dans le dossier par_chapitre. 
-Il peut m'arriver de modifier d'anciennes cartes, et dans ce cas là elles seront modifiées dans le fichier contenant toutes les cartes. 
-J'essaie également de remettre les fichiers dont des cartes ont été modifiées afin de faciliter l'importation de ces cartes modifiées si vous le voulez. Je ferai des commits qui diront clairement si un paquet a été modifié. 
-Je vous informe aussi qu'en général je fais mes paquets avant que le prof ne publie son cours, et j'utilise donc le cours de l'année dernière. Il peut don y avoir parfois quelques petites différences avec les énoncées de cette année.
+Il peut m'arriver de modifier d'anciennes cartes, et dans ce cas là elles seront modifiées dans le fichier contenant toutes les cartes.  
+J'essaie également de remettre les fichiers dont des cartes ont été modifiées afin de faciliter l'importation de ces cartes modifiées si vous le voulez. Je ferai des commits qui diront clairement si un paquet a été modifié.  
+Je vous informe aussi qu'en général je fais mes paquets avant que le prof ne publie son cours, et j'utilise donc le cours de l'année dernière. Il peut don y avoir parfois quelques petites différences avec les énoncés de cette année.  
 Et si jamais vous trouvez des erreurs, ou que vous avez des idées pour améliorer mes cartes, n'hésitez pas, je suis toujours intéressé !
