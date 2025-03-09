@@ -16,3 +16,5 @@ Il peut m'arriver de modifier d'anciennes cartes, et dans ce cas là elles seron
 J'essaie également de remettre les fichiers dont des cartes ont été modifiées afin de faciliter l'importation de ces cartes modifiées si vous le voulez. Je ferai des commits qui diront clairement si un paquet a été modifié.  
 Je vous informe aussi qu'en général je fais mes paquets avant que le prof ne publie son cours, et j'utilise donc le cours de l'année dernière. Il peut don y avoir parfois quelques petites différences avec les énoncés de cette année.  
 Et si jamais vous trouvez des erreurs, ou que vous avez des idées pour améliorer mes cartes, n'hésitez pas, je suis toujours intéressé !
+### updates : 
+- 07/03 : amélioration de quelques cartes du paquet des matrices et correction d'une erreur sur une carte du chapitre 20
