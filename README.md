@@ -18,3 +18,4 @@ Je vous informe aussi qu'en général je fais mes paquets avant que le prof ne p
 Et si jamais vous trouvez des erreurs, ou que vous avez des idées pour améliorer mes cartes, n'hésitez pas, je suis toujours intéressé !
 ### updates : 
 - 07/03 : amélioration de quelques cartes du paquet des matrices et correction d'une erreur sur une carte du chapitre 20
+- 15/03 : modifs mineures ch 20 maths + ajout ch22 maths et ch 16 physique
